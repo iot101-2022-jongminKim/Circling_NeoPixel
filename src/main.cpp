@@ -3,6 +3,7 @@
 
 #define ledPin 15
 #define ledNum 4
+
 int lux;
 int R[4] = {0, 10, 50, 10}, G[4] = {0, 10, 50, 10}, B[4] = {0, 10, 50, 10};
 int Neo[4] = {0, 1, 3, 2};
